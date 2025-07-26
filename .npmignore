@@ -1,0 +1,17 @@
+# Ignore test files and directories
+test/
+index.test.js
+
+# Ignore lock file
+package-lock.json
+
+# Ignore dotfiles not needed for runtime
+.gitignore
+.npmignore
+
+# Ignore node_modules (npm ignores it by default, but safe to list)
+node_modules/
+
+# Ignore dev tools/configs
+*.log
+coverage/

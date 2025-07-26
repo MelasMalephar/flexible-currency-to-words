@@ -1,0 +1,45 @@
+{
+  "name": "flexible-currency-to-words",
+  "version": "1.0.0",
+  "description": "A flexible, CommonJS-compatible library to convert numbers to words for currencies, supporting Indian and Western number formats, customizable currency units, decimal places, and extended range up to 999,999,999,999,999,999 (arab crore). Ideal for financial applications and multi-currency support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelasMalephar/flexible-currency-to-words.git"
+  },
+  "keywords": [
+    "number",
+    "words",
+    "currency",
+    "indian",
+    "western",
+    "convert",
+    "toWords",
+    "number to words",
+    "currency to words",
+    "number to string",
+    "money",
+    "cheque writing",
+    "accounting",
+    "finance",
+    "internationalization",
+    "node",
+    "javascript",
+    "npm",
+    "commonjs",
+    "indian numbering system",
+    "arab crore"
+  ],
+  "author": "Namit Sharma <namitsharma2109@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MelasMalephar/flexible-currency-to-words/issues"
+  },
+  "homepage": "https://github.com/MelasMalephar/flexible-currency-to-words#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
