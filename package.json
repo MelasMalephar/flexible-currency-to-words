@@ -1,8 +1,9 @@
 {
   "name": "flexible-currency-to-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A flexible, CommonJS-compatible library to convert numbers to words for currencies, supporting Indian and Western number formats, customizable currency units, decimal places, and extended range up to 999,999,999,999,999,999 (arab crore). Ideal for financial applications and multi-currency support.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jest"
   },
